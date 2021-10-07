@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Rhino/Grasshopper files
+*.gh
+*.ghx
+*.3dm
+*.rhl
+*.3dmbak
